@@ -1,0 +1,4 @@
+rgb(18, 151, 147) #129793 : dark blue/tosca
+rgb(80, 80, 80) #505050 : dark grey
+rgb(255, 245, 195) #fff5c3 : cream
+rgb(228, 251, 255) #9bd7d5 : sky blue
